@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "My First Article",
+    "content": "This is the content of my first article.",
+    "tags": [
+      "introduction",
+      "first",
+      "article"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "My First Article",
+    "content": "This is the content of my first article.",
+    "tags": [
+      "introduction",
+      "first",
+      "article"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "My First Article",
+    "content": "This is the content of my first article.",
+    "tags": [
+      "introduction",
+      "first",
+      "article"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "My First Article",
+    "content": "This is the content of my first article.",
+    "tags": [
+      "introduction",
+      "first",
+      "article"
+    ]
+  }
+]
